@@ -3,4 +3,6 @@
 __pycache__
 *.pytest_cache
 .gitattributes
-!*.zip
+*.zip
+
+*.csv
