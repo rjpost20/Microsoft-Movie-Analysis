@@ -18,7 +18,7 @@ Microsoft has seen the success of other major tech companies with their creation
 
 ## Data
 
-In this project I use a dataset from IMDb which contains information on film title, genre, runtime, year, average rating, and number of ratings. I also use a dataset of box office revenues, which contains information on film box office statistics, both foreign and domestic.
+In this project I use a dataset from IMDb which contains multiple tables with information on film title, genre, runtime, year, average rating, and number of ratings. I also use a dataset of box office revenues, which contains information on film box office statistics, both foreign and domestic.
 
 <br>
 
