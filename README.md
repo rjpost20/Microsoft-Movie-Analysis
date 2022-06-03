@@ -13,6 +13,9 @@ This project uses exploratory data analysis (EDA) to generate insights for Micro
 Microsoft has seen the success of other major tech companies with the creation of their own film and TV studios, and has decided to undertake their own studio venture. However, they have limited experience and knowledge on the minutiae of successful content creation. As such, I have been tasked with analyzing the most successful films based on IMDb data and box office records to provide actioniable insights on what types of content are most likely to be successful.
 
 
-## Data Understanding and Analysis
+## Data
 
 In this project I use a dataset from IMDb which contains information on film title, genre, runtime, year, average rating, and number of ratings. I also use a dataset of box office revenues, which contains information on film box office statistics, both foreign and domestic.
+
+
+## Analysis
