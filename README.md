@@ -1,22 +1,26 @@
-# Phase 1 Project: Microsoft Movie Analysis
+# Phase 1 Project: *Microsoft Movie Analysis*
 
 ![Movie Studio](https://user-images.githubusercontent.com/105675055/171872770-14bb5453-3b7a-4d2d-b59c-6cb7c820d110.jpg)
 
+<br>
 
 ## Project Overview
 
 This project uses exploratory data analysis (EDA) to generate insights for Microsoft Corp. in their undertaking of the creation of a new movie studio. By analyzing film runtimes, genres, ratings, number of ratings, and box office revenues from an IMDb dataset and a box office dataset, I provide three recommendations to Microsoft to maximize the likelihood of success in their creation of new content for their studio.
 
+<br>
 
 ## Business Problem
 
 Microsoft has seen the success of other major tech companies with their creation of film and TV studios, and has decided to undertake their own venture. However, they have limited experience and knowledge on the minutiae of successful content creation. As such, I have been tasked with analyzing the most successful films to provide actioniable insights on what types of content are most likely to be succeed for Microsoft.
 
+<br>
 
 ## Data
 
 In this project I use a dataset from IMDb which contains information on film title, genre, runtime, year, average rating, and number of ratings. I also use a dataset of box office revenues, which contains information on film box office statistics, both foreign and domestic.
 
+<br>
 
 ## Analysis
 
@@ -33,6 +37,7 @@ Another insight we can obtain from this analysis is that domestic markets tend t
 <img width="990" alt="Foreign Revenues by Genre" src="https://user-images.githubusercontent.com/105675055/171882582-6dc2e2d2-e3bc-41f2-922f-a9005332832e.png">
 
 <br>
+
 ### Box office revenues by IMDb rating
 
 My second analysis examines box office revenues, domestic and foreign, by IMDb rating.
@@ -43,6 +48,8 @@ We can see that there is a positive correlation between average IMDb rating and 
 
 <img width="990" alt="Screen Shot 2022-06-03 at 11 16 33 AM" src="https://user-images.githubusercontent.com/105675055/171882836-60ac4893-3259-4042-888b-e6b835063220.png">
 
+<br>
+
 ### Average IMDb rating by Runtime
 
 My third and final analysis examines average IMDb rating by runtime, segmented into 10 minute bins.
@@ -51,7 +58,7 @@ There is a clear upward trend in average IMDb rating until a film reaches 130 to
 
 <img width="990" alt="Screen Shot 2022-06-03 at 11 16 53 AM" src="https://user-images.githubusercontent.com/105675055/171882879-35f0cac2-f5a7-4c93-bf00-dc117da90a08.png">
 
-
+<br>
 
 ## Recommendations
 
@@ -60,6 +67,8 @@ This analysis leads to four recommendations for content creation in Microsoft's 
 - **Take note of whether the film will be primarily targeted to foreign or domestic markets, and adjust film genre accordingly.** Favor the crime genre for films that will solely or primarily be targeted to domestic audiences. For films targeted to foreign audiences, favor the mystery genre. The crime genre ranked two spots higher in domestic box office revenues than in foreign revenues, while the mystery genre ranked two spots higher in foreign box office revenues than in domestic revenues.
 - **Give priority to producing highly rated content for films that cater to foreign markets.** Domestic audiences are more forgiving at the box office for lower rated movies than foreign audiences tend to be. In theory one would expect that all content is produced with a high viewer rating in mind, but in practice studios generally know which content is more risky or experimental. Microsoft studios should save the experimental/risky films for domestic markets, in which the films may fare better if they do not garner high ratings.
 - **Aim for a runtime range of 130 to 140 minutes for most films.** This is the local maximum of average IMDb rating in the range of films from 80 to 160 minutes (in 10 minute increments). With that said, the studio should also not be afraid to produce extended movies beyond 160 minutes if they are confident in the success of the film. Such situations could involve sequels to hit movies, film adaptations of popular novels, and movies with multiple A-list actors, for example.
+
+<br>
 
 ## Next Steps and Remaining Questions
 
