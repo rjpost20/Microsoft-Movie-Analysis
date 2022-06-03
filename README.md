@@ -20,16 +20,36 @@ In this project I use a dataset from IMDb which contains information on film tit
 
 ## Analysis
 
+### Box office revenues by genre
 
-<img width="996" alt="Domestic Revenues by Genre" src="https://user-images.githubusercontent.com/105675055/171882367-2da037fa-2ba8-4c15-a489-bc11c8bd01b8.png">
+My first analysis examines the highest grossing movie genres, domestic and foreign.
 
-<img width="996" alt="Foreign Revenues by Genre" src="https://user-images.githubusercontent.com/105675055/171882582-6dc2e2d2-e3bc-41f2-922f-a9005332832e.png">
+We can see that adventure and action stand out amongst the pack as the highest grossing film genres in both domestic and foreign markets. While we may be tempted to suggest that the film studios should prioritize these genres, we have to be cautious of the effect of outliers. Many of the highest grossing films of all time, such as Avatar, Avengers, and Spider-Man, tend to be adventure and/or action films, but this does not necessarily mean that the average adventure and/or action film will perform well.
 
-<img width="993" alt="Domestic Revenues by Rating" src="https://user-images.githubusercontent.com/105675055/171882780-c49e0580-a9b7-4128-a8ff-90e69ff80bc7.png">
+Another insight we can obtain from this analysis is that domestic markets tend to prefer crime films (at 6th highest grossing) compared to foreign markets (where crime is 8th highest grossing). We also see that foreign markets tend to favor mystery films (at 5th highest grossing) compared to domestic markets (7th highest grossing).
+
+<img width="990" alt="Domestic Revenues by Genre" src="https://user-images.githubusercontent.com/105675055/171882367-2da037fa-2ba8-4c15-a489-bc11c8bd01b8.png">
+
+<img width="990" alt="Foreign Revenues by Genre" src="https://user-images.githubusercontent.com/105675055/171882582-6dc2e2d2-e3bc-41f2-922f-a9005332832e.png">
+
+
+### Box office revenues by IMDb rating
+
+My second analysis examines box office revenues, domestic and foreign, by IMDb rating.
+
+We can see that there is a positive correlation between average IMDb rating and domestic box office revenues. We can also see that there is an even stronger correlation between average IMDb rating and foreign box office revenues. We would expect the average IMDb rating for a film to correlate with its revenues, but we might not expect the correlation to be stronger in foreign markets than in domestic markets.
+
+<img width="990" alt="Domestic Revenues by Rating" src="https://user-images.githubusercontent.com/105675055/171882780-c49e0580-a9b7-4128-a8ff-90e69ff80bc7.png">
 
 <img width="990" alt="Screen Shot 2022-06-03 at 11 16 33 AM" src="https://user-images.githubusercontent.com/105675055/171882836-60ac4893-3259-4042-888b-e6b835063220.png">
 
-<img width="993" alt="Screen Shot 2022-06-03 at 11 16 53 AM" src="https://user-images.githubusercontent.com/105675055/171882879-35f0cac2-f5a7-4c93-bf00-dc117da90a08.png">
+### Average IMDb rating by Runtime
+
+My third and final analysis examines average IMDb rating by runtime, segmented into 10 minute bins.
+
+There is a clear upward trend in average IMDb rating until a film reaches 130 to 140 minutes, and then the rating drops off. However, surpassing 160 minutes, the average rating increases rapidly, surpassing the previous global maximum. Similar to our first analysis, we should be cautious with concluding that films should be longer than 160 minutes. While the effect of outliers will not be as strong here (ratings involve a 10 point scale, while revenues can reach into the billions), it's possible that film studios only tend to produce such extended films when they are especially confident of their success.
+
+<img width="990" alt="Screen Shot 2022-06-03 at 11 16 53 AM" src="https://user-images.githubusercontent.com/105675055/171882879-35f0cac2-f5a7-4c93-bf00-dc117da90a08.png">
 
 
 
