@@ -20,7 +20,9 @@ In this project I use a dataset from IMDb which contains information on film tit
 
 ## Analysis
 
-![Domestic Revenues by Genre](https://user-images.githubusercontent.com/105675055/171878637-aa5d6706-3689-42c7-92ff-c64392da9bf4.png)
+
+
+
 
 
 ## Recommendations
