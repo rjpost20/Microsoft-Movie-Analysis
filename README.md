@@ -32,7 +32,7 @@ Another insight we can obtain from this analysis is that domestic markets tend t
 
 <img width="990" alt="Foreign Revenues by Genre" src="https://user-images.githubusercontent.com/105675055/171882582-6dc2e2d2-e3bc-41f2-922f-a9005332832e.png">
 
-
+<br>
 ### Box office revenues by IMDb rating
 
 My second analysis examines box office revenues, domestic and foreign, by IMDb rating.
