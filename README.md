@@ -21,7 +21,15 @@ In this project I use a dataset from IMDb which contains information on film tit
 ## Analysis
 
 
+<img width="996" alt="Domestic Revenues by Genre" src="https://user-images.githubusercontent.com/105675055/171882367-2da037fa-2ba8-4c15-a489-bc11c8bd01b8.png">
 
+<img width="996" alt="Foreign Revenues by Genre" src="https://user-images.githubusercontent.com/105675055/171882582-6dc2e2d2-e3bc-41f2-922f-a9005332832e.png">
+
+<img width="993" alt="Domestic Revenues by Rating" src="https://user-images.githubusercontent.com/105675055/171882780-c49e0580-a9b7-4128-a8ff-90e69ff80bc7.png">
+
+<img width="990" alt="Screen Shot 2022-06-03 at 11 16 33 AM" src="https://user-images.githubusercontent.com/105675055/171882836-60ac4893-3259-4042-888b-e6b835063220.png">
+
+<img width="993" alt="Screen Shot 2022-06-03 at 11 16 53 AM" src="https://user-images.githubusercontent.com/105675055/171882879-35f0cac2-f5a7-4c93-bf00-dc117da90a08.png">
 
 
 
