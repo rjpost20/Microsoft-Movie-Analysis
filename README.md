@@ -1,6 +1,6 @@
 # Phase 1 Project: Microsoft Movie Analysis
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
+![Movie Studio]https://mir-s3-cdn-cf.behance.net/project_modules/fs/00dc8669537299.5b851623e525f.jpg
 
 ## Project Overview
 
