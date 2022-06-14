@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project uses exploratory data analysis (EDA) to generate insights for Microsoft Corp. in their undertaking of the creation of a new movie studio. By analyzing film runtimes, genres, ratings, number of ratings, and box office revenues from an IMDb dataset and a box office dataset, I provide three recommendations to Microsoft to maximize the likelihood of success in their creation of new content for their studio.
+This project uses exploratory data analysis (EDA) techniques to generate insights for Microsoft Corp. in their (fictional) undertaking of the creation of a new movie studio. By analyzing film runtimes, genres, ratings, number of ratings, and box office revenues from an IMDb dataset and a box office dataset, I provide three recommendations to Microsoft to maximize the likelihood of success in their creation of new content for their studio.
 
 <br>
 
