@@ -3,6 +3,8 @@
 ![Movie Studio](https://user-images.githubusercontent.com/105675055/171872770-14bb5453-3b7a-4d2d-b59c-6cb7c820d110.jpg)
 *Drawing by Miguel Herranz*
 
+### By Ryan Posternak
+
 <br>
 
 ## Project Overview
